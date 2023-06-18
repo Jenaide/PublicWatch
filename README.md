@@ -15,7 +15,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/PublicWatch-API.git
+git clone https://github.com/Jenaide/PublicWatch.git
 Change into the project directory:
 
 bash
