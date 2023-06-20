@@ -1,4 +1,4 @@
-name: run manage.py runserver
+name: run python manage.py runserver
 on:
   schedule:
     - cron: '0 20 * * *' # runs once every day at 20:00
